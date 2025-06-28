@@ -51,3 +51,7 @@ Untuk menjalankan notebook ini di komputer Anda, ikuti langkah-langkah berikut:
 4.  Buka dan jalankan file `Transformasi Frekuensi.ipynb` melalui Jupyter Notebook atau Jupyter Lab.
 
 ---
+
+
+*Created by Mystery-World3*
+
